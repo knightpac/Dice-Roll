@@ -1,3 +1,7 @@
+This project was built using ReactJS and basic CSS. It is effectively a component to randomise two dice rolls whilst also animating the rollling motion via CSS.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
